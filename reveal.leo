@@ -474,7 +474,13 @@ g.es("pelican 執行完畢")</t>
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20160108203558.2">&lt;!doctype html&gt;
+<t tx="leo.20160108203558.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -488,13 +494,7 @@ g.es("pelican 執行完畢")</t>
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20160108203558.3">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
+<t tx="leo.20160108203558.3"></t>
 <t tx="leo.20160108203558.4">&lt;body&gt;
 @others
 &lt;/body&gt;
