@@ -48,7 +48,7 @@
 <v t="leo.20160108203336.1"><vh>@edit 40423228_cp_w9.md</vh></v>
 <v t="leo.20160108203343.1"><vh>@edit 40423228_cp_w11.md</vh></v>
 </v>
-<v t="leo.20160108203420.2"><vh>以下為 reveal 投影片</vh>
+<v t="leo.20160108203420.2" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20160108203420.3"><vh>@edit 40423228_cp_w1_p.html</vh></v>
 <v t="leo.20160108203420.4"><vh>@edit 40423228_cp_w2_p.html</vh></v>
 <v t="leo.20160108203420.5"><vh>@edit 40423228_cp_w3_p.html</vh></v>
